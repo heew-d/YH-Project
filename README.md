@@ -27,8 +27,9 @@
 
 #### `프로젝트 관리 도구`
 - git, github
-- jandi
 - Visual Studio Code
+- jandi
+<img width="1440" alt="jandi" src="https://user-images.githubusercontent.com/91947795/212250383-638cdd33-8048-4ea6-9bde-3ed73dee5ab2.png">
 
 </br>
 
