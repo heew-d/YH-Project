@@ -3,12 +3,14 @@
 ###### 
   
   
-### 개요
+## 개요
 >무인이동체를 활용한 인공지능 자율주행(K-Digital) 프로젝트
 
 >진행기간 : 2022년 12월 05일 ~ 2023년 1월 11일
 
-### 개발환경 및 사용기술
+</br>
+
+## 개발환경 및 사용기술
 #### `언어`
 - python
 - c
@@ -28,8 +30,9 @@
 - jandi
 - Visual Studio Code
 
+</br>
 
-### 하드웨어
+## 하드웨어
 - Arduino Uno R3
 - ESP32-cam
 - Logitech C920
@@ -51,15 +54,23 @@
 - JST 2pin connector
 - Multi tester
 
+</br>
 
-### 영상처리
+## 영상처리 
 - [stella](./stella_cv_func.py)
 
 - [rc카](./CVlib.py)
 
-### 인공지능
+</br>
+
+## 인공지능
 - [딥러닝](./LSB_deeplearning/)
 
-### 평가
+</br>
+
+## 평가
+- 
+
+</br>
 
 #### [발표 ppt](https://www.canva.com/design/DAFXLS8lMWA/PR6ZuXmCWh_rvvsVbPWt3A/view?utm_content=DAFXLS8lMWA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
