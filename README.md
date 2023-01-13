@@ -8,7 +8,7 @@
 >진행기간 : 2022년 12월 05일 ~ 2023년 1월 11일
 
 ### 개발환경 및 사용기술
-#### '언어'
+#### `언어`
 - python
 - c
 - OpenCV
@@ -17,12 +17,12 @@
 - TensorFlow
 - Keras
 
-#### '환경'
+#### `환경`
 - ROS(Noetic Ninjemys)
 - Linux(Ubuntu_18.04)
 - ubuntu MATE
 
-#### '프로젝트 관리 도구'
+#### `프로젝트 관리 도구`
 - git, github
 - jandi
 - Visual Studio Code
