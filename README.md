@@ -29,7 +29,27 @@
 
 
 ### 하드웨어
-- []
+- Arduino Uno R3
+- ESP32-cam
+- Logitech C920
+- DC Motor 5V
+- L298N
+- L9110
+- HW-432(XL6009E1)
+- Ceramic Capacitor
+- HC-05
+- HC-06
+- Mini Bread Board
+- Arduino protosheild
+- Arduino uno USB B cable
+- 9V Battery
+- Lithium-ion Battery 3.7V
+- 18650 Battery holder
+- Ni-Cd 1.2V AA * 4
+- Jumper Wire
+- JST 2pin connector
+- Multi tester
+
 
 ### 영상처리
 - [stella](./stella_cv_func.py)
