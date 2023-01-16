@@ -68,6 +68,14 @@ stella는 세밀한 각도 조절이 가능하고, rc카는 세밀한 각도 조
 ## 인공지능
 - [딥러닝](./LSB_deeplearning/)
 
+- 보다 정밀한 사물인식을 구현하기위해 keras와 Tensorflow를 사용
+
+![kerasAndTensor](https://user-images.githubusercontent.com/109050683/212276444-2e87fabc-161f-472c-9538-c7ae0dab96ba.png)
+
+- 인공지능을 통하여 stella와 rc_car의 움직임을 제어하고 싶었고, 아두이노를 통하여 서보모터를 제어하는 코드로 선행을 진행하였습니다.
+
+![servo_webc_2](https://user-images.githubusercontent.com/109050683/212274960-7ffd2371-5db8-4960-8de7-2c93b289a07d.gif)
+
 </br>
 
 ## 미구현 및 개선사항
