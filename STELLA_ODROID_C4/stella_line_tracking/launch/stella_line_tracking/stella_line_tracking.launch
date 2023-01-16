@@ -1,0 +1,6 @@
+<launch>
+  <include file="$(find stella_md)/launch/stella_mwdriver.launch">
+	</include>
+  <node pkg="stella_line_tracking" type="stella_mk.py" name="stella_line_tracking_node"  output="screen">
+  </node>
+</launch>
